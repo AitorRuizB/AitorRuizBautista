@@ -37,11 +37,14 @@ Actively seeking robotics engineering internships and professional opportunities
 
 ### 🚀 Featured Projects
 
-*   **[LLM-Robot Control Integration]():** (Bachelor's Thesis) Architecture connecting Large Language Models with robotic execution frameworks for autonomous task reasoning and planning. *(Work in Progress)*
-*   **[Industrial Robotic Cells]():** Dual-robot cell programming in RobotStudio (ABB) utilizing `SearchL` routines and pick-and-place tower logic, alongside Cartesian kinematic control for a UR3 manipulator in CoppeliaSim.
-*   **[Bilateral Teleoperation Systems]():** Simulink models of master-slave architectures incorporating wave variables, scattering transformations, and impedance compensation for stable teleoperation.
-*   **[Multi-Agent Swarm Assembly]():** GAMA platform simulation featuring 100 autonomous agents utilizing GAML to self-assemble into complex spatial geometries.
-*   **[Myoelectric Signal Processing]():** MATLAB-based analysis of EMG data for wrist flexion/extension, implementing moving average envelopes and thresholding for proportional muscle control.
+*   **[LLM-Robot Control Integration](https://github.com/AitorRuizB/TFG_LLM_Robot):** *(Bachelor's Thesis)* Architecture connecting Large Language Models with robotic execution frameworks for autonomous task reasoning and planning. *(Work in Progress)*
+*   **[ROS 2 Autonomous Mobile Robotics](https://github.com/AitorRuizB/robotica_movil):** Complete autonomous navigation suite featuring 3D point cloud mapping, SLAM Toolbox, AMCL particle filter localization, Nav2 stack tuning, and high-level task orchestration using YASMIN Finite State Machines and OpenCV.
+*   **[ROS 2 Scalable Multi-Robot System](https://github.com/AitorRuizB/robotica_movil/multirobots):** Scalable multi-agent simulation in ROS 2 Jazzy and Gazebo Harmonic with modular Xacro descriptions, namespace isolation, dynamic TF trees, and on-the-fly ROS-Gazebo bridge generation.
+*   **[Industrial Robotic Cells & Real-Hardware Control](https://github.com/AitorRuizB/Abb_robotstudio):** 
+    * *Real-World Cooperative Manipulation:* Client-Server architecture in Python communicating via TCP/IP sockets with two physical ABB IRB 120 controllers for synchronized box lifting.
+    * *Multi-Robot Coordination:* Dual ABB IRB 120 simulation featuring I/O handshaking, `SearchL` tactile routines, and automated Jenga tower assembly in RAPID.
+    * *Multi-Conveyor Sorting Cell:* Automated pick-and-place station using dual-TCP vacuum grippers and Smart Components for dynamic box routing.
+*   **[A* & A*-Epsilon Pathfinding Visualizer](https://github.com/AitorRuizB/Programming_algorithms/tree/main/astar):** Interactive 2D multi-terrain path planner in Python and Pygame implementing standard A* and bounded suboptimal focal search ($A^*_\epsilon$) to optimize geometric distance versus energy consumption.
 
 ---
 
