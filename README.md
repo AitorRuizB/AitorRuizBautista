@@ -48,6 +48,6 @@ Actively seeking robotics engineering internships and professional opportunities
 ### 📫 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/aitor-ruiz-bautista-0052b6338"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[www.linkedin.com/in/aitor-ruiz-bautista-0052b6338](https://www.linkedin.com/in/aitor-ruiz-bautista-0052b6338/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aitor.ruizb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
