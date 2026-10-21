@@ -1,10 +1,9 @@
 # Hi there, I'm Aitor Ruiz Bautista 👋
 
-### Robotics Engineering Student | Specializing in LLM-Robot Control & Automation
+### Robotics Engineering Student | Robot programming and control
 
-I am a final-year **Robotics Engineering** student at Universidad de Alicante, deeply interested in bridging the gap between advanced artificial intelligence and physical robotic systems. I am currently researching how to leverage Large Language Models (LLMs) for high-level robotic control and task planning.
+I am a final-year **Robotics Engineering** student at Universidad de Alicante, deeply interested in bridging the gap between advanced artificial intelligence and physical robotic systems. I am currently developing my own systems based on ESP32 for robot controll and more.
 
-Actively seeking robotics engineering internships and professional opportunities in Spain and Switzerland for 2027.
 
 ---
 
@@ -30,7 +29,7 @@ Actively seeking robotics engineering internships and professional opportunities
 **CAD & 3D Modeling**
 <p>
   <img src="https://img.shields.io/badge/autodesk%20fusion-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Autodesk" />
 </p>
 
 ---
