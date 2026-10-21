@@ -39,7 +39,7 @@ Actively seeking robotics engineering internships and professional opportunities
 
 *   **[LLM-Robot Control Integration](https://github.com/AitorRuizB/TFG_LLM_Robot):** *(Bachelor's Thesis)* Architecture connecting Large Language Models with robotic execution frameworks for autonomous task reasoning and planning. *(Work in Progress)*
 *   **[ROS 2 Autonomous Mobile Robotics](https://github.com/AitorRuizB/robotica_movil):** Complete autonomous navigation suite featuring 3D point cloud mapping, SLAM Toolbox, AMCL particle filter localization, Nav2 stack tuning, and high-level task orchestration using YASMIN Finite State Machines and OpenCV.
-*   **[ROS 2 Scalable Multi-Robot System](https://github.com/AitorRuizB/robotica_movil/multirobots):** Scalable multi-agent simulation in ROS 2 Jazzy and Gazebo Harmonic with modular Xacro descriptions, namespace isolation, dynamic TF trees, and on-the-fly ROS-Gazebo bridge generation.
+*   **[ROS 2 Scalable Multi-Robot System](https://github.com/AitorRuizB/robotica_movil/tree/main/multirobot):** Scalable multi-agent simulation in ROS 2 Jazzy and Gazebo Harmonic with modular Xacro descriptions, namespace isolation, dynamic TF trees, and on-the-fly ROS-Gazebo bridge generation.
 *   **[Industrial Robotic Cells & Real-Hardware Control](https://github.com/AitorRuizB/Abb_robotstudio):** 
     * *Real-World Cooperative Manipulation:* Client-Server architecture in Python communicating via TCP/IP sockets with two physical ABB IRB 120 controllers for synchronized box lifting.
     * *Multi-Robot Coordination:* Dual ABB IRB 120 simulation featuring I/O handshaking, `SearchL` tactile routines, and automated Jenga tower assembly in RAPID.
